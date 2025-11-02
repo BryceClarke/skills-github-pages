@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Bryce Clarke's blog test: Welcome to my blog!
 ---
 
